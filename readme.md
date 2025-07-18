@@ -7,3 +7,7 @@ pip install -r requirements.txt
 
 ## install ipykernel
 pip install ipykernel
+
+
+## app deployment url
+https://churn-modelling-jh28ppv4fafxcgdwvxjuz8.streamlit.app/
